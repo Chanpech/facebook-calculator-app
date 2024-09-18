@@ -12,8 +12,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Run the app locally
-First, run the development server:
+First, run node_modules installation
 
+```bash
+npm  i
+```
+Second, start the server
 ```bash
 npm run dev
 ```
