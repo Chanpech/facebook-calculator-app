@@ -1,6 +1,6 @@
 <h2> Meta React Basics' final project - Calculator App. </h2>
 <p> The course demonstrates my knowledge of React Basics and skills in utilizing third-party libraries for stylizing and modernizing the deprecated standalone create-react-app.</p>
-<h3> Integrated Technologies </h2>h3>
+<h3> Integrated Technologies </h3>
 <ul>
   <li>React</li>
   <li>Next.js</li>
